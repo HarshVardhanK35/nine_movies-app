@@ -576,7 +576,7 @@ function init() {
       displaySlider()
       displayPopularMovies();
       break;
-    case "/shows.html":
+    case "/tv-shows.html":
       showDisplaySlider();
       displayPopularShows();
       break;
